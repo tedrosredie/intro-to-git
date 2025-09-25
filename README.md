@@ -1,1 +1,1 @@
-# intro-to-git
+This is just a beginners tutorial on Git
